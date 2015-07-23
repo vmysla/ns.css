@@ -1,0 +1,129 @@
+.ns.sanitize {
+  /*! sanitize.css | CC0 Public Domain | github.com/jonathantneal/sanitize.css */
+  /*# sourceMappingURL=sanitize.css.map */
+}
+.ns.sanitize pre,
+.ns.sanitize textarea {
+  overflow: auto;
+}
+.ns.sanitize :root {
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  box-sizing: border-box;
+  cursor: default;
+  font-family: sans-serif;
+  line-height: 1.5em;
+  text-rendering: optimizeLegibility;
+  vertical-align: top;
+}
+.ns.sanitize [hidden],
+.ns.sanitize audio:not([controls]),
+.ns.sanitize template {
+  display: none;
+}
+.ns.sanitize details,
+.ns.sanitize main,
+.ns.sanitize summary {
+  display: block;
+}
+.ns.sanitize input[type=number] {
+  width: auto;
+}
+.ns.sanitize input[type=search] {
+  -webkit-appearance: textfield;
+}
+.ns.sanitize input[type=search]::-webkit-search-cancel-button,
+.ns.sanitize input[type=search]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+.ns.sanitize progress {
+  display: inline-block;
+}
+.ns.sanitize small {
+  font-size: 75%;
+}
+.ns.sanitize textarea {
+  resize: vertical;
+}
+.ns.sanitize [unselectable] {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.ns.sanitize *,
+.ns.sanitize ::after,
+.ns.sanitize ::before {
+  box-sizing: inherit;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  text-decoration: inherit;
+  vertical-align: inherit;
+  border-style: solid;
+  border-width: 0;
+}
+.ns.sanitize * {
+  margin: 0;
+  padding: 0;
+  cursor: inherit;
+}
+.ns.sanitize a,
+.ns.sanitize button,
+.ns.sanitize input,
+.ns.sanitize select,
+.ns.sanitize textarea {
+  cursor: initial;
+}
+.ns.sanitize button,
+.ns.sanitize input,
+.ns.sanitize select,
+.ns.sanitize textarea {
+  background: 0 0;
+}
+.ns.sanitize code,
+.ns.sanitize kbd,
+.ns.sanitize pre,
+.ns.sanitize samp {
+  font-family: monospace, monospace;
+}
+.ns.sanitize input {
+  min-height: 1.5em;
+}
+.ns.sanitize nav ol,
+.ns.sanitize nav ul {
+  list-style: none;
+}
+.ns.sanitize select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+.ns.sanitize select::-ms-expand {
+  display: none;
+}
+.ns.sanitize select::-ms-value {
+  color: currentColor;
+}
+.ns.sanitize table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.ns.sanitize ::-moz-selection {
+  background-color: #B3D4FC;
+  text-shadow: none;
+}
+.ns.sanitize ::selection {
+  background-color: #B3D4FC;
+  text-shadow: none;
+}
+@media screen {
+  .ns.sanitize [hidden~=screen] {
+    display: inherit;
+  }
+  .ns.sanitize [hidden~=screen]:not(:active):not(:focus):not(:target) {
+    clip: rect(0 0 0 0) !important;
+    position: absolute !important;
+  }
+}

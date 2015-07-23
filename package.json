@@ -1,0 +1,24 @@
+{
+  "name": "namespace.css",
+  "version": "1.0.0",
+  "description": "Namespace.css is a CSS solution which allows you to use multiple CSS libraries, frameworks and layouts without conflicts. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "normalize"
+  ],
+  "author": "Vlad Mysla",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.5.1",
+    "normalize.css": "^3.0.3",
+    "sanitize.css": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

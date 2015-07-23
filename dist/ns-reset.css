@@ -1,0 +1,130 @@
+.ns.reset {
+  /* http://meyerweb.com/eric/tools/css/reset/ 
+       v2.0 | 20110126
+       License: none (public domain)
+    */
+  /* HTML5 display-role reset for older browsers */
+}
+.ns.reset html,
+.ns.reset body,
+.ns.reset div,
+.ns.reset span,
+.ns.reset applet,
+.ns.reset object,
+.ns.reset iframe,
+.ns.reset h1,
+.ns.reset h2,
+.ns.reset h3,
+.ns.reset h4,
+.ns.reset h5,
+.ns.reset h6,
+.ns.reset p,
+.ns.reset blockquote,
+.ns.reset pre,
+.ns.reset a,
+.ns.reset abbr,
+.ns.reset acronym,
+.ns.reset address,
+.ns.reset big,
+.ns.reset cite,
+.ns.reset code,
+.ns.reset del,
+.ns.reset dfn,
+.ns.reset em,
+.ns.reset img,
+.ns.reset ins,
+.ns.reset kbd,
+.ns.reset q,
+.ns.reset s,
+.ns.reset samp,
+.ns.reset small,
+.ns.reset strike,
+.ns.reset strong,
+.ns.reset sub,
+.ns.reset sup,
+.ns.reset tt,
+.ns.reset var,
+.ns.reset b,
+.ns.reset u,
+.ns.reset i,
+.ns.reset center,
+.ns.reset dl,
+.ns.reset dt,
+.ns.reset dd,
+.ns.reset ol,
+.ns.reset ul,
+.ns.reset li,
+.ns.reset fieldset,
+.ns.reset form,
+.ns.reset label,
+.ns.reset legend,
+.ns.reset table,
+.ns.reset caption,
+.ns.reset tbody,
+.ns.reset tfoot,
+.ns.reset thead,
+.ns.reset tr,
+.ns.reset th,
+.ns.reset td,
+.ns.reset article,
+.ns.reset aside,
+.ns.reset canvas,
+.ns.reset details,
+.ns.reset embed,
+.ns.reset figure,
+.ns.reset figcaption,
+.ns.reset footer,
+.ns.reset header,
+.ns.reset hgroup,
+.ns.reset menu,
+.ns.reset nav,
+.ns.reset output,
+.ns.reset ruby,
+.ns.reset section,
+.ns.reset summary,
+.ns.reset time,
+.ns.reset mark,
+.ns.reset audio,
+.ns.reset video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+.ns.reset article,
+.ns.reset aside,
+.ns.reset details,
+.ns.reset figcaption,
+.ns.reset figure,
+.ns.reset footer,
+.ns.reset header,
+.ns.reset hgroup,
+.ns.reset menu,
+.ns.reset nav,
+.ns.reset section {
+  display: block;
+}
+.ns.reset body {
+  line-height: 1;
+}
+.ns.reset ol,
+.ns.reset ul {
+  list-style: none;
+}
+.ns.reset blockquote,
+.ns.reset q {
+  quotes: none;
+}
+.ns.reset blockquote:before,
+.ns.reset blockquote:after,
+.ns.reset q:before,
+.ns.reset q:after {
+  content: '';
+  content: none;
+}
+.ns.reset table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
