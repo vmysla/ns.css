@@ -16,4 +16,4 @@ Use in your pages:
 </html>
 ```
 
-Checkout a demo: `https://jsfiddle.net/vmysla/7sweyz6p/3/`
+Checkout the demo: `https://jsfiddle.net/vmysla/7sweyz6p/3/`
